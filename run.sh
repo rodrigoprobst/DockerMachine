@@ -1,0 +1,1 @@
+docker run -d -P nginx /usr/sbin/nginx -g "daemon off;"
